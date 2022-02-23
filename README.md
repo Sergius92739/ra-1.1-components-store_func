@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/h4gialntaixtq2de/branch/master?svg=true)](https://ci.appveyor.com/project/Sergius92739/ra-1-1-components-store-func/branch/master)
+
 #### Deployment:  <a href="" target="_blank">Github Pages</a>
 
 Страница интернет-магазина
